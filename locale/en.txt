@@ -1,0 +1,40 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_2EC66ECF_3BD2_AB2C_41C6_14AF5820EC56.label = 1 entrada edificio 
+panorama_2810AB12_3BD2_6934_41C9_B5919F1A39A3.label = 10 Sala Osiris Delgado
+panorama_2810B2EE_3BD2_78EC_41CA_EB22EE7B64C5.label = 11 Sala Fernando Cros
+panorama_2810DAE2_3BD2_6B14_4198_B3EC25804A95.label = 12 Sala Rafael Hernandez
+panorama_281152C2_3BD3_9B14_41BA_249C1BC423CB.label = 13 entrada museos
+panorama_28113AB1_3BD3_AB74_41BE_9D95DE1ADF9A.label = 15 Sala Revistas
+panorama_281152C5_3BD3_BB1C_4189_438AC5228DCD.label = 16 Museo Antropología Religios
+panorama_28119B6F_3BD3_A9EC_419A_8FDE58767A5D.label = 17 Galería Noemi Ruiz
+panorama_286A094C_3BD2_E92C_41C0_D212CF253FF1.label = 2 vestíbulo edificio 
+panorama_281082D5_3BD2_FB3C_41BF_354D92B1C4A8.label = 3 escaleras para bajar
+panorama_2810FA92_3BD2_EB34_41A5_6D91C232CB3B.label = 4 entrada biblioteca 
+panorama_2810A250_3BD2_9B34_41CA_50509EAFD5EC.label = 5 entrada Student rooms
+panorama_286F1A72_3BD2_ABF4_41C3_65B06A40CBA2.label = 6 Referencia-Reserva-Circulaci
+panorama_2810F296_3BD2_BB3C_41B0_E79E74435581.label = 7 S Amauri Veray-Colección Pña
+panorama_2810EB52_3BD2_A934_41B0_89DD5A7E588D.label = 8 Sala Tesis
+panorama_28108352_3BD2_9934_41B7_DA99DE0FB208.label = 9 Sala Abierta y Museos
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = INTER Metro
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Universitaria, San Juan 
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Universidad Interamericana 
